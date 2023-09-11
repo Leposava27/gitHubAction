@@ -1,1 +1,1 @@
-# Jmeter_Test_GitAuto
+# Purpose of this GitHub repository is to create a basic continuous integration process while running an API test with the Jmeter tool.
